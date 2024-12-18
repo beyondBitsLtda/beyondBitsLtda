@@ -1,10 +1,12 @@
-# Bem-vindo ao meu perfil!
-
-O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado de tecnologia utilizando uma metodologia passo a passo e colaborativa. Este enfoque visa não apenas o desenvolvimento individual, mas também a mútua colaboração entre os membros, promovendo um ambiente de aprendizado contínuo e compartilhamento de conhecimentos.
-
 <div align="center">
   <img src="https://github.com/bryansf94/Book-Here/blob/main/logo_com_fundo.jpg" alt=" " width="230">
 </div>
+
+
+
+# Bem-vindo a Beyond Bits!
+
+O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado de tecnologia utilizando uma metodologia passo a passo e colaborativa. Este enfoque visa não apenas o desenvolvimento individual, mas também a mútua colaboração entre os membros, promovendo um ambiente de aprendizado contínuo e compartilhamento de conhecimentos.
 
 ## Ferramentas e linguagens que estamos aprendendo
 
@@ -27,13 +29,12 @@ O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado
 
 
 
-- [![](https://visitcount.itsvg.in/api?id=raffaelramalho&icon=1&color=7)](https://visitcount.itsvg.in)
 <div align="center">
   <h3><b>Profile Visitor Count</b></h3>
 </div>
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/raffaelramalho/count.svg"
+    src="https://profile-counter.glitch.me/beyondBitsLtda/count.svg"
     alt="Ilustração do número de visitantes no perfil"
   />
 </p>
