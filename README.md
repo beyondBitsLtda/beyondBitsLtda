@@ -15,7 +15,7 @@ O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado
 ### Linguagens 
 | JavaJs | PHP | html | CSS |  C  |
 |--------|-----|------|-----|-----|
-| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/JavaJs.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/PHP.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="70">|  <img src="https://github.com/bryansf94/bryansf94/blob/main/img/CSS.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/CSS.png" alt=" " width="120">|
+| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/JavaJs.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/PHP.png" alt=" " width="120">| <img src="https://github.com/bryansf94/bryansf94/blob/main/img/HTML.png" alt=" " width="70">|  <img src="https://github.com/bryansf94/bryansf94/blob/main/img/CSS.png" alt=" " width="120">| <img src="https://github.com/beyondBitsLtda/beyond/blob/main/img/3765627-removebg-preview.png" alt=" " width="90">|
 
 ### Ferramentas 
 | SQL Server | My SQL | Figma | Git|
