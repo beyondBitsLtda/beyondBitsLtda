@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/bryansf94/Book-Here/blob/main/logo_com_fundo.jpg" alt=" " width="230">
+  <img src="https://github.com/beyondBitsLtda/beyond/blob/main/img/logo%20Beyond.jpg" alt=" " width="230">
 </div>
 
 
