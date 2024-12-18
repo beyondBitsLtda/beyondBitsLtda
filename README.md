@@ -3,7 +3,6 @@
 </div>
 
 
-
 # Bem-vindo a Beyond Bits!
 
 O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado de tecnologia utilizando uma metodologia passo a passo e colaborativa. Este enfoque visa não apenas o desenvolvimento individual, mas também a mútua colaboração entre os membros, promovendo um ambiente de aprendizado contínuo e compartilhamento de conhecimentos.
