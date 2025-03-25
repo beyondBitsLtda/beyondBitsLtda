@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/beyondBitsLtda/beyond/blob/main/img/logo%20Beyond.jpg" alt=" " width="230">
-</div>
 
 
 # Bem-vindo a Beyond Bits!
