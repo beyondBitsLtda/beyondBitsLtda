@@ -24,11 +24,3 @@ O grupo Beyond Bits tem como objetivo preparar seus colaboradores para o mercado
 </p>
 
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/beyondBitsLtda/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
-
-
